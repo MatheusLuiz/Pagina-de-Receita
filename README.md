@@ -37,4 +37,4 @@ O **Portal de Receitas** é um projeto desenvolvido com o objetivo de praticar e
 
 ## :memo: Licença
 
-Este projeto está sob a licença MIT. Para mais informações, consulte o arquivo [LICENSE](LICENSE).
+Este projeto está sob a licença MIT.
