@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Projeto de um Portal de Receitas desenvolvido durante as aulas de html e css na Rocketseat.
+  Portal de Receitas desenvolvido durante as aulas de HTML e CSS na Rocketseat.
 </p>
 
 <p align="center">
@@ -13,23 +13,28 @@ Projeto de um Portal de Receitas desenvolvido durante as aulas de html e css na 
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=0F172A&labelColor=1D4ED8">
+  <img alt="Licença MIT" src="https://img.shields.io/static/v1?label=license&message=MIT&color=0F172A&labelColor=1D4ED8">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src="github/Preview.png" width="60%">
+  <img alt="Preview do projeto" src="github/cover.png" width="60%">
 </p>
 
+---
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Este projeto foi construído utilizando as seguintes tecnologias:
 
-- HTML
-- CSS
+- **HTML**
+- **CSS**
 
-## Projeto
+## 💡 Projeto
 
-Nesse projeto iremos desenvolver um portal de notícias para praticar o nosso conhecimento com o HTML e CSS!
+O **Portal de Receitas** é um projeto desenvolvido com o objetivo de praticar e aplicar os conceitos fundamentais de HTML e CSS. Ao longo do desenvolvimento, exploramos a criação de layouts responsivos, organização de conteúdo e estilização com CSS puro.
+
+## :memo: Licença
+
+Este projeto está sob a licença MIT. Para mais informações, consulte o arquivo [LICENSE](LICENSE).
